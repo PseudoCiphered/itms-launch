@@ -13,6 +13,18 @@
                     <key>url</key>
                     <string>https://github.com/PseudoCiphered/itms-launch/blob/main/tips.ipa</string>
                 </dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/PseudoCiphered/itms-launch/blob/main/image_2023-12-08_010258636.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/PseudoCiphered/itms-launch/blob/main/image_2023-12-08_010213390.png</string>
+				</dict>
             </array>
             <key>metadata</key>
             <dict>
